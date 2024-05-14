@@ -14,4 +14,6 @@ def cek_isi_tuple (tuple):
         return print (tes)
         
 tA= (2,2,2,2,2,2,2)
+tB= (1,4,6,1)
 cek_isi_tuple(tA)
+cek_isi_tuple(tB)
